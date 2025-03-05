@@ -3,3 +3,5 @@ and another line of text
 and one more line
 the fourth line of code
 fifth line
+sixth line
+and seventh line
