@@ -3,9 +3,6 @@ and another line of text
 and one more line
 the fourth line of code
 fifth line
-<<<<<<< HEAD
-=======
 sixth line
 and seventh line
 this changes I will undo later
->>>>>>> parent of 28a9b4d (Revert "changes will be undone")
