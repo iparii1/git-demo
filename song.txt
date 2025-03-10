@@ -8,4 +8,5 @@ and seventh line
 this changes I will undo later
 
 
-Words written on the feature branch
+No words from first commit
+New words for the second commit
